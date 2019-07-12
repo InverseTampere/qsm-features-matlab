@@ -14,7 +14,7 @@ The `QSMFeatureCalculator` object stores the extreme values of each feature acro
 
 ### QSMB and QSMBCylindrical
 
-Quantitative structure models (QSMs) are expected to be defined as objects of QSMB subclasses, such as QSMBCylindrical. These Matlab classes are part of the [QSM-Blocks](https://github.com/InverseTampere/qsm-blocks) repository.
+Quantitative structure models (QSMs) are expected to be defined as objects of QSMB subclasses, such as QSMBCylindrical. These Matlab classes are part of the [QSM-Blocks](https://github.com/InverseTampere/qsm-blocks-matlab) repository.
 
 ## Basic usage
 
